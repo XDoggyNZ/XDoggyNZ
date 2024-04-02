@@ -1,0 +1,5 @@
+- Hi, I’m @XDoggyNZ
+- I’m interested in godot
+- I’m currently learning gd script
+- I’m not looking to collaborate
+- Fun fact: i'm making a game :D
